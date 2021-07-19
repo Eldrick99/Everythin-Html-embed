@@ -13,4 +13,6 @@ Its easy, Got to [Spotify.com/login](https://spotify.com/login) then create an a
 3. Click embed (song, playlist, show etc.)
 4. Customize and copy the code...
 5. Paste in a html website.
+
+![Embed Image](Images/blob.jpg)
  
