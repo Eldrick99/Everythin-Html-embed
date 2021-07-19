@@ -11,5 +11,6 @@ Its easy, Got to [Spotify.com/login](https://spotify.com/login) then create an a
 1. Then right click on any show, playlist, song etc.
 2. Hover over Share
 3. Click embed (song, playlist, show etc.)
-4. Customize ![Image of Yaktocat](https://www.bing.com/images/blob?bcid=S5V2qVg9bAADJhQmq7.Wm5bm3oLr.....x0)
+4. Customize and copy the code...
+5. Paste in a html website.
  
