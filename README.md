@@ -1,5 +1,5 @@
 # Everything Html Embed (and other things)
- ### The spotify.html file
+ ### The music.html file
 For this you need a spotify account....
 
 Its easy, Got to [Spotify.com/login](https://spotify.com/login) then create an account with Google (Or any other email service).  
